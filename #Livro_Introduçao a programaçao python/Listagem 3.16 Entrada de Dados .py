@@ -1,0 +1,10 @@
+print('='*72)
+print('{0:=^72}'.format(' Listagem '))
+print('{0:=^72}'.format(' By César J. Fois '))
+print('='*72)
+print('{0:=^72}'.format(' Entrada de Dados '))
+print('='*72)
+print('')
+
+x = input('Digite um numero: ')
+print(x)
