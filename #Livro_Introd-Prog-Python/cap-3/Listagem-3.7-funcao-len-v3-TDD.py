@@ -1,4 +1,3 @@
-import unittest
 
 print('='*72)
 print('{0:=^72}'.format(' Listagem 3,7 v3 '))
@@ -14,11 +13,4 @@ class Len_String():
     for c in list_a:
         print('Comprimento da String', c, '=', len(c))
         print()
-
-
-class len_String_Test(unittest.TestCase):
-
-    def test_len_string(self):
-        self.assertListEqual([len('a'), len('AB'), len(''), len('o rato roe a roupa')],
-                             [1, 2, 0, 18])
 

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a767895-f729-4177-aa15-ea0bcfe34356" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v3 TDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem-3.7-funcao-len-v3-TDD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,52 +16,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v2_TDD.coverage" NAME="Listagem 3.7 A função len v2_TDD Coverage Results" MODIFIED="1539598979561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1539599435996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_8_Manipulação_de_Strings_TDD_py.coverage" NAME="Unittests in Listagem 3.8 Manipulação de Strings_TDD.py Coverage Results" MODIFIED="1537012627533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_11_Calculo_de_aumento_de_salário.coverage" NAME="Listagem 2.11 Calculo de aumento de salário Coverage Results" MODIFIED="1537011392812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_11_Calculo_de_aumento_de_salário_TDD.coverage" NAME="Listagem 2.11 Calculo de aumento de salário_TDD Coverage Results" MODIFIED="1539687161527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_w4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1537007800509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v1_TDD__1_.coverage" NAME="Listagem 3.7 A função len v1_TDD (1) Coverage Results" MODIFIED="1539684665959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_8_Manipulação_de_Strings.coverage" NAME="Listagem 3.8 Manipulação de Strings Coverage Results" MODIFIED="1537012302260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_1_Escrevendo_Arquivo.coverage" NAME="Listagem-9.1-Escrevendo-Arquivo Coverage Results" MODIFIED="1539683993466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_2_Lendo_Arquivo.coverage" NAME="Listagem-9.2-Lendo-Arquivo Coverage Results" MODIFIED="1539683650900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_1_Contador_de_1__a_100.coverage" NAME="Exercício 5.1 Contador de 1  a 100 Coverage Results" MODIFIED="1539687376778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v1_TDD.coverage" NAME="Listagem 3.7 A função len v1_TDD Coverage Results" MODIFIED="1539598297810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v2_TDD.coverage" NAME="Listagem 3.7 A função len v2_TDD Coverage Results" MODIFIED="1539684669475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v2_TDD.coverage" NAME="Listagem 3.7 A função len v2_TDD Coverage Results" MODIFIED="1539598979561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1539684673100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_funcao_len_v3_TDD.coverage" NAME="Listagem-3.7-funcao-len-v3-TDD Coverage Results" MODIFIED="1539685269919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_1_hello_world__format.coverage" NAME="Listagem 2.1 hello world .format Coverage Results" MODIFIED="1539686129562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v3.coverage" NAME="Listagem 3.7 A função len v3 Coverage Results" MODIFIED="1537005523188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_2_ola_mundo_V1_TDD.coverage" NAME="Listagem 2.2 ola mundo V1 TDD Coverage Results" MODIFIED="1539598272121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_w4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1537007800509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v1_TDD__1_.coverage" NAME="Listagem 3.7 A função len v1_TDD (1) Coverage Results" MODIFIED="1539600385774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
-    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py__1_.coverage" NAME="Unittests in Listagem 3.7 A função len v3 TDD.py (1) Coverage Results" MODIFIED="1539600392758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
-    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_8_Manipulação_de_Strings.coverage" NAME="Listagem 3.8 Manipulação de Strings Coverage Results" MODIFIED="1537012302260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_1_Escrevendo_Arquivo.coverage" NAME="Listagem-9.1-Escrevendo-Arquivo Coverage Results" MODIFIED="1539601393990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py__1_.coverage" NAME="Unittests in Listagem-3.7-funcao-len-v3-TDD.py Coverage Results" MODIFIED="1539685244465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$noo.coverage" NAME="noo Coverage Results" MODIFIED="1537004985548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_7_O_primeiro_programa_com_variáveis_TDD_v2.coverage" NAME="Listagem 2.7 O primeiro programa com variáveis TDD v2 Coverage Results" MODIFIED="1539598287665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v3 TDD.py Coverage Results" MODIFIED="1539599627503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_2_Lendo_Arquivo.coverage" NAME="Listagem-9.2-Lendo-Arquivo Coverage Results" MODIFIED="1539601747632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_3_Contador_Regresivo_10_a_0.coverage" NAME="Exercício 5.3 Contador Regresivo 10 a 0 Coverage Results" MODIFIED="1539687442546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_py.coverage" NAME="Unittests in Listagem 3.7 A função len w4 TDD.py Coverage Results" MODIFIED="1537005591638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-    <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v1_TDD.coverage" NAME="Listagem 3.7 A função len v1_TDD Coverage Results" MODIFIED="1539598297810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_2_ola_mundo_V1_TDD.coverage" NAME="Listagem 2.2 ola mundo V1 TDD Coverage Results" MODIFIED="1539685317452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Listagem 3.7 A função len v1_TDD.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v1_TDD.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Listagem 3.7 A função len v3 TDD.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v3 TDD.py">
+      <file leaf-file-name="Exercício 5.3 Contador Regresivo 10 a 0.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.3 Contador Regresivo 10 a 0.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Listagem-9.1-Escrevendo-Arquivo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Listagem-9.2-Lendo-Arquivo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="242">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -90,8 +79,10 @@
         <option value="$PROJECT_DIR$/#Livro_Introduçao a programaçao python/fa.html" />
         <option value="$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
         <option value="$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem-3.7-funcao-len-v3-TDD.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" />
       </list>
     </option>
   </component>
@@ -105,10 +96,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1026" />
+    <option name="x" value="1436" />
+    <option name="y" value="40" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -134,6 +125,24 @@
               <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
               <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="cap-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="cap-5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="cap-6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
               <item name="cap-9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -146,13 +155,14 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv2/Scripts/pythonw.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-9" />
       <recent name="D:\Cursos\Estudando dos Livros Python\#Livro_Introduçao a programaçao python" />
     </key>
   </component>
@@ -168,8 +178,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Listagem-9.2-Lendo-Arquivo">
-    <configuration name="Listagem 3.7 A função len v1_TDD (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercício 5.3 Contador Regresivo 10 a 0">
+    <configuration name="Exercício 5.1 Contador de 1  a 100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,18 +187,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v1_TDD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.1 Contador de 1  a 100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Listagem-9.1-Escrevendo-Arquivo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercício 5.3 Contador Regresivo 10 a 0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,18 +206,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.3 Contador Regresivo 10 a 0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Listagem-9.2-Lendo-Arquivo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Listagem 2.1 hello world .format" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,32 +225,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.1 hello world .format.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Listagem 2.11 Calculo de aumento de salário_TDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v3 TDD.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+    <configuration name="Listagem 2.2 ola mundo V1 TDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudando dos Livros Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.2 ola mundo V1 TDD.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,35 +288,21 @@
       <option name="_new_target" value="&quot;$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="Unittests in Listagem 3.7 A função len v4 TDD.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Estudando dos Livros Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests in Listagem 3.7 A função len v3 TDD.py" />
-      <item itemvalue="Python tests.Unittests in Listagem 3.7 A função len v4 TDD.py" />
-      <item itemvalue="Python.Listagem 3.7 A função len v1_TDD (1)" />
-      <item itemvalue="Python tests.Unittests in Listagem 3.7 A função len v3 TDD.py (1)" />
-      <item itemvalue="Python.Listagem-9.1-Escrevendo-Arquivo" />
-      <item itemvalue="Python.Listagem-9.2-Lendo-Arquivo" />
+      <item itemvalue="Python tests.Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
+      <item itemvalue="Python.Listagem 2.2 ola mundo V1 TDD" />
+      <item itemvalue="Python.Listagem 2.11 Calculo de aumento de salário_TDD" />
+      <item itemvalue="Python.Listagem 2.1 hello world .format" />
+      <item itemvalue="Python.Exercício 5.1 Contador de 1  a 100" />
+      <item itemvalue="Python.Exercício 5.3 Contador Regresivo 10 a 0" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Listagem-9.2-Lendo-Arquivo" />
-        <item itemvalue="Python.Listagem-9.1-Escrevendo-Arquivo" />
-        <item itemvalue="Python tests.Unittests in Listagem 3.7 A função len v3 TDD.py (1)" />
-        <item itemvalue="Python.Listagem 3.7 A função len v1_TDD (1)" />
-        <item itemvalue="Python tests.Unittests in Listagem 3.7 A função len v4 TDD.py" />
+        <item itemvalue="Python.Exercício 5.3 Contador Regresivo 10 a 0" />
+        <item itemvalue="Python.Exercício 5.1 Contador de 1  a 100" />
+        <item itemvalue="Python.Listagem 2.11 Calculo de aumento de salário_TDD" />
+        <item itemvalue="Python.Listagem 2.1 hello world .format" />
+        <item itemvalue="Python.Listagem 2.2 ola mundo V1 TDD" />
       </list>
     </recent_temporary>
   </component>
@@ -300,35 +320,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 21m 10s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.16 at 07h 11m 58s.xml">
+      <configuration name="Unittests in Listagem 3.7 A função len v3_TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 22m 40s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 13m 11s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py - 2018.10.15 at 07h 23m 09s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v4 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 13m 56s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py - 2018.10.15 at 07h 23m 14s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v4 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 16m 36s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py - 2018.10.15 at 07h 30m 36s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v4 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 18m 51s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 30m 58s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 18m 59s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 31m 18s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 19m 00s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 31m 58s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 19m 01s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py - 2018.10.15 at 07h 33m 47s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 19m 02s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py_(1) - 2018.10.15 at 07h 46m 33s.xml">
-      <configuration name="Unittests in Listagem 3.7 A função len v3 TDD.py (1)" configurationId="tests" />
+    <history-entry file="Unittests_in_Listagem-3_7-funcao-len-v3-TDD_py - 2018.10.16 at 07h 20m 44s.xml">
+      <configuration name="Unittests in Listagem-3.7-funcao-len-v3-TDD.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -340,9 +360,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5304054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36373875" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3277027" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35268947" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36674815" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -361,24 +381,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3398533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.64026403" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3277027" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +407,35 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v2_TDD.py" />
@@ -416,30 +464,104 @@
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v2_TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v1_TDD.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v3 TDD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/numeros.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-884" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Exercício 3.7 Soma de dois numeros .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v4 TDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="35" lean-forward="true" selection-start-line="32" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Exercício 3.15 Cigarro fumado x Dia .py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v1_TDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v2_TDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem-3.7-funcao-len-v3-TDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Exercício 2.3 Imprimir Ola Mundo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.7 O primeiro programa com variáveis TDD v1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.2 ola mundo v2 TDD.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.2 ola mundo V1 TDD.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Exercício 2.4 print a+b+c.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Exercício 2.4_2a x 3b.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Exercício 2.6 Aumento Salario 15% .py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.1 hello world .format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.1 Contador de 1  a 100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.2 Contador de 50 a 100.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.3 Contador Regresivo 10 a 0.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>

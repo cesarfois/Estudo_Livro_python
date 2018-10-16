@@ -2,7 +2,7 @@ print('='*72)
 print('{0:=^72}'.format(' Listagem 5.9 '))
 print('{0:=^72}'.format(' By César J. Fois '))
 print('='*72)
-print('{0:=^72}'.format(' Tabuada simples'))
+print('{0:=^72}'.format(' Tabuada simples '))
 print('='*72)
 print('')
 

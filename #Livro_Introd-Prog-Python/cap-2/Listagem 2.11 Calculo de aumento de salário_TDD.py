@@ -1,13 +1,21 @@
-print('=' * 72)
-print('{0:=^72}'.format(' Listagem 2,11 '))
-print('{0:=^72}'.format(' By César J. Fois '))
-print('=' * 72)
-print('=' * 72)
-print('\n' * 1)
+
+nome = "Listagem 2.11"
+autor = "César J. Fois"
+
+
+def cabecalho(a,b):
+    print('=' * 72)
+    print('{0:=^72}'.format((' ' + a + ' ')))
+    print('{0:=^72}'.format((' ' + b + ' ')))
+    print('=' * 72)
+    print('=' * 72)
+    print('\n' * 1)
+
+
+cabecalho(nome, autor)
 
 salario = 1500
 aumento = 5
-
 
 def func_aumento_salario():
     aumento_salario = (salario + (salario * aumento / 100))
