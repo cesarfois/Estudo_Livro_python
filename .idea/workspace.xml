@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a767895-f729-4177-aa15-ea0bcfe34356" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem 3.7 A função len v3 TDD.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem-3.7-funcao-len-v3-TDD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.10 Contagem de questoes corretas .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.10 Contagem de questoes corretas .py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.10 Contagem de questoes corretas .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.11 Soma de 10 numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.11 Soma de 10 numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,39 +19,53 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1539599435996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_13_Interrompendo_a_repetição.coverage" NAME="Listagem 5.13 Interrompendo a repetição Coverage Results" MODIFIED="1539776838040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_8_Manipulação_de_Strings_TDD_py.coverage" NAME="Unittests in Listagem 3.8 Manipulação de Strings_TDD.py Coverage Results" MODIFIED="1537012627533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_5__10_Primeiros_Multiplos_de_3_.coverage" NAME="Exercício 5.5 _10 Primeiros Multiplos de 3  Coverage Results" MODIFIED="1539687698499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_11_Calculo_de_aumento_de_salário.coverage" NAME="Listagem 2.11 Calculo de aumento de salário Coverage Results" MODIFIED="1537011392812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_12_Calculo_de_média_do_acumulador.coverage" NAME="Listagem 5.12 Calculo de média do acumulador Coverage Results" MODIFIED="1539776505518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_11_Calculo_de_aumento_de_salário_TDD.coverage" NAME="Listagem 2.11 Calculo de aumento de salário_TDD Coverage Results" MODIFIED="1539687161527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_4_Numeros_Impares.coverage" NAME="Exercício 5.4 Numeros Impares Coverage Results" MODIFIED="1539687666980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_w4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1537007800509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v1_TDD__1_.coverage" NAME="Listagem 3.7 A função len v1_TDD (1) Coverage Results" MODIFIED="1539684665959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_8_Manipulação_de_Strings.coverage" NAME="Listagem 3.8 Manipulação de Strings Coverage Results" MODIFIED="1537012302260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_1_Escrevendo_Arquivo.coverage" NAME="Listagem-9.1-Escrevendo-Arquivo Coverage Results" MODIFIED="1539683993466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_2_Lendo_Arquivo.coverage" NAME="Listagem-9.2-Lendo-Arquivo Coverage Results" MODIFIED="1539683650900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercicio_5_15_Maquina_Registradora_.coverage" NAME="Exercicio 5.15 Maquina Registradora  Coverage Results" MODIFIED="1539777404069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercicio_5_12_Mostrar_taxas_24_meses_com_depositos.coverage" NAME="Exercicio 5.12 Mostrar taxas 24 meses com depositos Coverage Results" MODIFIED="1539776526301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_7_Tabuada_de_____.coverage" NAME="Exercício 5.7 Tabuada de ...  Coverage Results" MODIFIED="1539688384900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_10_Contagem_de_questoes_corretas_.coverage" NAME="Listagem 5.10 Contagem de questoes corretas  Coverage Results" MODIFIED="1539775670690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_1_Contador_de_1__a_100.coverage" NAME="Exercício 5.1 Contador de 1  a 100 Coverage Results" MODIFIED="1539687376778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v1_TDD.coverage" NAME="Listagem 3.7 A função len v1_TDD Coverage Results" MODIFIED="1539598297810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v2_TDD.coverage" NAME="Listagem 3.7 A função len v2_TDD Coverage Results" MODIFIED="1539684669475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_11_Soma_de_10_numeros.coverage" NAME="Listagem 5.11 Soma de 10 numeros Coverage Results" MODIFIED="1539775893533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercicio_5_14_while___break.coverage" NAME="Exercicio 5.14 while &amp; break Coverage Results" MODIFIED="1539777384786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v2_TDD.coverage" NAME="Listagem 3.7 A função len v2_TDD Coverage Results" MODIFIED="1539598979561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v4 TDD.py Coverage Results" MODIFIED="1539684673100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_6_Tabuada_de_____.coverage" NAME="Exercício 5.6 Tabuada de ...  Coverage Results" MODIFIED="1539687913295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercicio_5_10_Contagem_de_questoes_corretas_.coverage" NAME="Exercicio 5.10 Contagem de questoes corretas  Coverage Results" MODIFIED="1539775631654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_funcao_len_v3_TDD.coverage" NAME="Listagem-3.7-funcao-len-v3-TDD Coverage Results" MODIFIED="1539685269919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_8_Impressãoi_de_números_pares_de_0_até_escolha_do_usuário_sem_if.coverage" NAME="Listagem 5.8 Impressãoi de números pares de 0 até escolha do usuário sem if Coverage Results" MODIFIED="1539687618259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_7_Impressão_de_números_pares_de_0_até_a_escolha_do_usuário_while.coverage" NAME="Listagem 5.7 Impressão de números pares de 0 até a escolha do usuário while Coverage Results" MODIFIED="1539687591039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_1_hello_world__format.coverage" NAME="Listagem 2.1 hello world .format Coverage Results" MODIFIED="1539686129562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_7_A_função_len_v3.coverage" NAME="Listagem 3.7 A função len v3 Coverage Results" MODIFIED="1537005523188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_2_ola_mundo_V1_TDD.coverage" NAME="Listagem 2.2 ola mundo V1 TDD Coverage Results" MODIFIED="1539598272121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_9_Tabuada_Simples.coverage" NAME="Listagem 5.9 Tabuada Simples Coverage Results" MODIFIED="1539687796941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py__1_.coverage" NAME="Unittests in Listagem-3.7-funcao-len-v3-TDD.py Coverage Results" MODIFIED="1539685244465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$noo.coverage" NAME="noo Coverage Results" MODIFIED="1537004985548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_2_7_O_primeiro_programa_com_variáveis_TDD_v2.coverage" NAME="Listagem 2.7 O primeiro programa com variáveis TDD v2 Coverage Results" MODIFIED="1539598287665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v3_TDD_py.coverage" NAME="Unittests in Listagem 3.7 A função len v3 TDD.py Coverage Results" MODIFIED="1539599627503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_3_Contador_Regresivo_10_a_0.coverage" NAME="Exercício 5.3 Contador Regresivo 10 a 0 Coverage Results" MODIFIED="1539687442546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_6_Imprimir_de_1_até_a_um_número_digitado_pelo_usuário.coverage" NAME="Listagem 5.6 Imprimir de 1 até a um número digitado pelo usuário Coverage Results" MODIFIED="1539687536771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_7_A_função_len_v4_py.coverage" NAME="Unittests in Listagem 3.7 A função len w4 TDD.py Coverage Results" MODIFIED="1537005591638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_2_2_ola_mundo_V1_TDD.coverage" NAME="Listagem 2.2 ola mundo V1 TDD Coverage Results" MODIFIED="1539685317452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Exercício 5.3 Contador Regresivo 10 a 0.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.3 Contador Regresivo 10 a 0.py">
+      <file leaf-file-name="Exercicio 5.15 Maquina Registradora .py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.15 Maquina Registradora .py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
+            <state relative-caret-position="-407" />
           </provider>
         </entry>
       </file>
@@ -83,6 +99,17 @@
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3/Listagem-3.7-funcao-len-v3-TDD.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.6 Imprimir de 1 até a um número digitado pelo usuário.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.7 Impressão de números pares de 0 até a escolha do usuário while.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.8 Impressãoi de números pares de 0 até escolha do usuário sem if.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.9 Tabuada Simples.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.9 Tabuada Simples .py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.10 Contagem de questoes corretas .py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.10 Contagem de questoes corretas .py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.11 Soma de 10 numeros.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py" />
       </list>
     </option>
   </component>
@@ -125,12 +152,6 @@
               <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
               <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="cap-2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
               <item name="cap-5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -162,6 +183,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-5" />
       <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-9" />
       <recent name="D:\Cursos\Estudando dos Livros Python\#Livro_Introduçao a programaçao python" />
     </key>
@@ -178,8 +200,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercício 5.3 Contador Regresivo 10 a 0">
-    <configuration name="Exercício 5.1 Contador de 1  a 100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercicio 5.15 Maquina Registradora ">
+    <configuration name="Exercicio 5.12 Mostrar taxas 24 meses com depositos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,13 +214,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.1 Contador de 1  a 100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.12 Mostrar taxas 24 meses com depositos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Exercício 5.3 Contador Regresivo 10 a 0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio 5.14 while &amp; break" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -211,13 +233,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.3 Contador Regresivo 10 a 0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Listagem 2.1 hello world .format" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercicio 5.15 Maquina Registradora " type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,18 +247,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.1 hello world .format.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.15 Maquina Registradora .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Listagem 2.11 Calculo de aumento de salário_TDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Listagem 5.12 Calculo de média do acumulador" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,18 +266,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.11 Calculo de aumento de salário_TDD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Listagem 2.2 ola mundo V1 TDD" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Listagem 5.13 Interrompendo a repetição" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,12 +285,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-2/Listagem 2.2 ola mundo V1 TDD.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +312,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-      <item itemvalue="Python.Listagem 2.2 ola mundo V1 TDD" />
-      <item itemvalue="Python.Listagem 2.11 Calculo de aumento de salário_TDD" />
-      <item itemvalue="Python.Listagem 2.1 hello world .format" />
-      <item itemvalue="Python.Exercício 5.1 Contador de 1  a 100" />
-      <item itemvalue="Python.Exercício 5.3 Contador Regresivo 10 a 0" />
+      <item itemvalue="Python.Listagem 5.12 Calculo de média do acumulador" />
+      <item itemvalue="Python.Exercicio 5.12 Mostrar taxas 24 meses com depositos" />
+      <item itemvalue="Python.Listagem 5.13 Interrompendo a repetição" />
+      <item itemvalue="Python.Exercicio 5.14 while &amp; break" />
+      <item itemvalue="Python.Exercicio 5.15 Maquina Registradora " />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercício 5.3 Contador Regresivo 10 a 0" />
-        <item itemvalue="Python.Exercício 5.1 Contador de 1  a 100" />
-        <item itemvalue="Python.Listagem 2.11 Calculo de aumento de salário_TDD" />
-        <item itemvalue="Python.Listagem 2.1 hello world .format" />
-        <item itemvalue="Python.Listagem 2.2 ola mundo V1 TDD" />
+        <item itemvalue="Python.Exercicio 5.15 Maquina Registradora " />
+        <item itemvalue="Python.Exercicio 5.14 while &amp; break" />
+        <item itemvalue="Python.Listagem 5.13 Interrompendo a repetição" />
+        <item itemvalue="Python.Exercicio 5.12 Mostrar taxas 24 meses com depositos" />
+        <item itemvalue="Python.Listagem 5.12 Calculo de média do acumulador" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +375,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -362,7 +383,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32838285" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36373875" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3277027" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36674815" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25855747" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -381,24 +402,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3398533" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.64026403" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933994" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3277027" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -422,36 +443,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.1-Escrevendo-Arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9/Listagem-9.2-Lendo-Arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v2_TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v2_TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/fa.html" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/fa.html" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v4 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A funcao len v3_TDD.py" />
-    <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A funcao len v3_TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introduçao a programaçao python/Listagem 3.7 A funcao len v3_TDD.py" />
@@ -563,6 +554,116 @@
         <state relative-caret-position="242">
           <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.6 Imprimir de 1 até a um número digitado pelo usuário.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.8 Impressãoi de números pares de 0 até escolha do usuário sem if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.4 Numeros Impares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.5 _10 Primeiros Multiplos de 3 .py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.9 Tabuada Simples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.7 Impressão de números pares de 0 até a escolha do usuário while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.6 Tabuada de ... .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercício 5.7 Tabuada de ... .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.9 Tabuada Simples .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.10 Contagem de questoes corretas .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.10 Contagem de questoes corretas .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.11 Mostrar taxas 24 Meses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.11 Soma de 10 numeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.12 Mostrar taxas 24 meses com depositos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.15 Maquina Registradora .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-407" />
       </provider>
     </entry>
   </component>
