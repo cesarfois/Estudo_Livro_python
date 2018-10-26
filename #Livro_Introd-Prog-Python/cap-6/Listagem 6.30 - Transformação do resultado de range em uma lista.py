@@ -1,0 +1,10 @@
+print('=' * 72)
+print('{:=^72}'.format(' Listagem 6.30 '))
+print('{:=^72}'.format(' By César J. Fois '))
+print('=' * 72)
+print('{0:=^72}'.format(' Listagem 6.30 - Transformação do resultado de range em uma lista '))
+print('=' * 72)
+print('')
+
+L = list(range(100, 1100, 50))
+print(L)
