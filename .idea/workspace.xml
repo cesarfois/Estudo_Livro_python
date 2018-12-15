@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a767895-f729-4177-aa15-ea0bcfe34356" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.45 - Criação de um Dicionário.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.48 - Verificação de uma existência numa chave.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.49 - Obtenção de uma lista de chaves e valores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.50 - Obtenção do preço com um dicionário .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.51 - Exclusão de uma associação um dicionário .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.53 -Ex de diccionário com estoque e operações de venda .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/teste1010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$1017.coverage" NAME="1017 Coverage Results" MODIFIED="1544831821590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$1014.coverage" NAME="1014 Coverage Results" MODIFIED="1544827615284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_6_20__Remoção_de_Fatias.coverage" NAME="Listagem 6.20- Remoção de Fatias Coverage Results" MODIFIED="1540503460520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6" />
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Unittests_in_Listagem_3_8_Manipulação_de_Strings_TDD_py.coverage" NAME="Unittests in Listagem 3.8 Manipulação de Strings_TDD.py Coverage Results" MODIFIED="1537012627533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
@@ -146,11 +135,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1016.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1016.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1016.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="44">
+              <caret line="2" column="14" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1017.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -171,7 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.12 Calculo de média do acumulador.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.13 Interrompendo a repetição.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Exercicio 5.14 while &amp; break.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.16 Impressão de Tabuadas sem repetições aninhadas.py" />
@@ -222,6 +219,7 @@
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1014.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1015.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1016.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py" />
       </list>
     </option>
   </component>
@@ -234,7 +232,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-31" />
     <option name="y" value="484" />
     <option name="width" value="1386" />
@@ -254,11 +252,6 @@
             <path>
               <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Estud-Livros-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Estud-Livros-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="#Livro_Introd-Prog-Python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,26 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1016">
-    <configuration name="1012" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudando dos Livros Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1012.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.1017">
     <configuration name="1013" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -391,6 +365,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="1017" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudando dos Livros Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -407,19 +400,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-      <item itemvalue="Python.1012" />
       <item itemvalue="Python.1013" />
       <item itemvalue="Python.1014" />
       <item itemvalue="Python.1015" />
       <item itemvalue="Python.1016" />
+      <item itemvalue="Python.1017" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1017" />
         <item itemvalue="Python.1016" />
         <item itemvalue="Python.1015" />
         <item itemvalue="Python.1014" />
         <item itemvalue="Python.1013" />
-        <item itemvalue="Python.1012" />
       </list>
     </recent_temporary>
   </component>
@@ -476,9 +469,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.509901" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.5608108" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.1603631" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.509901" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.26072606" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1603631" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -538,7 +531,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.5 - Cálculo da Média com notas digitadas minha versao.py" />
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.5 - Cálculo da Média.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -870,8 +862,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1016.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="44">
+          <caret line="2" column="14" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
