@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a767895-f729-4177-aa15-ea0bcfe34356" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1041.py" beforeDir="false" afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1042.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,7 @@
     <SUITE FILE_PATH="coverage/Estudando_dos_Livros_Python$Listagem_3_8_Manipulação_de_Strings.coverage" NAME="Listagem 3.8 Manipulação de Strings Coverage Results" MODIFIED="1537012302260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introduçao a programaçao python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_1_Escrevendo_Arquivo.coverage" NAME="Listagem-9.1-Escrevendo-Arquivo Coverage Results" MODIFIED="1539683993466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_9_2_Lendo_Arquivo.coverage" NAME="Listagem-9.2-Lendo-Arquivo Coverage Results" MODIFIED="1539683650900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-9" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$1042.coverage" NAME="1042 Coverage Results" MODIFIED="1545156615940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercicio_5_12_Mostrar_taxas_24_meses_com_depositos.coverage" NAME="Exercicio 5.12 Mostrar taxas 24 meses com depositos Coverage Results" MODIFIED="1539776526301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Exercício_5_7_Tabuada_de_____.coverage" NAME="Exercício 5.7 Tabuada de ...  Coverage Results" MODIFIED="1539688384900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_5_10_Contagem_de_questoes_corretas_.coverage" NAME="Listagem 5.10 Contagem de questoes corretas  Coverage Results" MODIFIED="1539775670690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5" />
@@ -110,11 +111,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1041.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1041.py">
+      <file leaf-file-name="1042.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1042.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="24" />
+            <state relative-caret-position="61">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -135,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-5/Listagem 5.16 Impressão de Tabuadas sem repetições aninhadas.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.2 - Uma lista com tres elementos.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.5 - Cálculo da Média com notas digitadas.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.5 - Cálculo da Média com notas digitadas minha versao.py" />
@@ -186,6 +186,7 @@
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1017.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1021.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1041.py" />
+        <option value="$PROJECT_DIR$/1042.py" />
       </list>
     </option>
   </component>
@@ -198,7 +199,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="677" />
     <option name="width" value="658" />
     <option name="height" value="735" />
@@ -240,6 +241,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Cursos\Estud-Livros-Python" />
       <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-6" />
       <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-5" />
       <recent name="D:\Cursos\Estud-Livros-Python\#Livro_Introd-Prog-Python\cap-9" />
@@ -258,26 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1041">
-    <configuration name="1015" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudando dos Livros Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1015.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.1042">
     <configuration name="1016" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,6 +337,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="1042" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudando dos Livros Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,19 +372,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-      <item itemvalue="Python.1015" />
       <item itemvalue="Python.1016" />
       <item itemvalue="Python.1017" />
       <item itemvalue="Python.1021" />
       <item itemvalue="Python.1041" />
+      <item itemvalue="Python.1042" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1042" />
         <item itemvalue="Python.1041" />
         <item itemvalue="Python.1021" />
         <item itemvalue="Python.1017" />
         <item itemvalue="Python.1016" />
-        <item itemvalue="Python.1015" />
       </list>
     </recent_temporary>
   </component>
@@ -432,15 +434,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34818482" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48349836" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.41914192" />
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.16490166" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -502,13 +503,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Exercicio 6.1 - Cálculo da Média com notas digitadas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6/Listagem 6.7 - Apresentação de numeros.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -840,8 +834,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1041.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" />
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1042.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
