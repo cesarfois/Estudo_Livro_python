@@ -1,17 +1,19 @@
-
-x2 = float(input())
-x = x2 - 2000.00
-print(x)
-if (x > 0.00) and (x <= 2000.00):
-    print('isento')
-if(x > 2000.00) and (x <= 3000.00):
-    por = 8.00
-if (x > 3000.00) and (x <= 4500.00):
-    por = 18.00
-if x > 4500.00:
-    por = 28.00
+x = float(input())
+if (x > 0.00) and (x < 2000.00):
+    print('Isento')
 
 
-re = ( x2 * por)/100
+elif(x >= 2000.01) and (x <= 3000.00):
+    resto = x - 2000
+    res = resto * 0.08
+    print("R$ %.2f" % res)
 
-print(re)
+elif (x >= 3000.01) and (x <= 4500.00):
+    resto = x - 3000
+    res = (resto * 0.18) + (1000 * 0.08)
+    print("R$ %.2f" % res)
+
+else:
+    resto = x - 4500
+    res = (resto * 0.28) + (1500 * 0.18) + (1000 * 0.08)
+    print("R$ %.2f" % res)
