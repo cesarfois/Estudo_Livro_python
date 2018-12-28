@@ -1,12 +1,18 @@
 n = int(input())
+res2 = ''
 
-i = 0
-out = ""
-
+if n == 0:
+    print('0')
+    n = -1
+else:
+    t1 = 0
+    t2 = 1
+    res2 = '0 1 '
+i = 2
 while i < n:
-    i1 = i
+    t3 = t1 + t2
+    res2 += str(t3) + ' '
+    t1 = t2
+    t2 = t3
     i += 1
-    i2 = i
-    i3 = i1 + i2
-    out = str(i1) + str(i2) + str(i3)
-print(out)
+print(res2[:-1])
