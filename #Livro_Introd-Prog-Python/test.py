@@ -1,14 +1,11 @@
-soma = 0
-lin = 12
-lin2 = 0
+n = 3
+lin = 0
 
-for c in range(12):
-    lin = lin - 1
-    lin2 = lin2 + 1
-    for j in range(12):
-        if (j < lin) and (j >= lin2):
-            print('%4d' % j, end='|')
-            soma = soma + 1
+for c in range(3):
+    for j in range(:
+        print('%4d' % 1, end='')
+    lin =+ 1
+
     print()
 
-print(soma)
+# N-i+1   N-j+1
