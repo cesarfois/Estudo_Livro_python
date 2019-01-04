@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a767895-f729-4177-aa15-ea0bcfe34356" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1789.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1847.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1848.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1858.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/#Livro_Introd-Prog-Python/2029.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -115,6 +111,7 @@
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$1060.coverage" NAME="1060 Coverage Results" MODIFIED="1545325891068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$1933.coverage" NAME="1933 Coverage Results" MODIFIED="1546200907890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$1188.coverage" NAME="1188 Coverage Results" MODIFIED="1546048247923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
+    <SUITE FILE_PATH="coverage/Estud_Livros_Python$2029.coverage" NAME="2029 Coverage Results" MODIFIED="1546561561467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_6_34___Copia_de_elementos_para_outras_listas.coverage" NAME="Listagem 6.34 - Copia de elementos para outras listas Coverage Results" MODIFIED="1540563051206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-6" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$Listagem_3_7_A_função_len_v1_TDD__1_.coverage" NAME="Listagem 3.7 A função len v1_TDD (1) Coverage Results" MODIFIED="1539684665959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python/cap-3" />
     <SUITE FILE_PATH="coverage/Estud_Livros_Python$1047.coverage" NAME="1047 Coverage Results" MODIFIED="1545169138675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
@@ -198,7 +195,7 @@
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1789.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -206,8 +203,8 @@
       <file leaf-file-name="1848.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1848.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="23" column="26" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="506">
+              <caret line="23" column="26" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -216,7 +213,7 @@
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1858.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" selection-end-line="12" selection-end-column="20" />
+              <caret selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -225,16 +222,25 @@
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1847.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" selection-end-line="26" />
+              <caret selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1828.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1828.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1828.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+            <state>
+              <caret selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2029.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/2029.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -255,7 +261,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1154.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1155.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1156.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1157.py" />
@@ -306,6 +311,7 @@
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1858.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1847.py" />
         <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1828.py" />
+        <option value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/2029.py" />
       </list>
     </option>
   </component>
@@ -331,7 +337,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,6 +353,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,26 +388,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1828">
-    <configuration name="1789" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Estudando dos Livros Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/1789.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.2029">
     <configuration name="1828" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -478,6 +465,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="2029" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Estudando dos Livros Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/#Livro_Introd-Prog-Python/2029.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="Estudando dos Livros Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -494,19 +500,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in D:/Cursos/Estud-Livros-Python/#Livro_Introduçao a programaçao python/Listagem 3.7 A função len v3 TDD.py" />
-      <item itemvalue="Python.1789" />
       <item itemvalue="Python.1848" />
       <item itemvalue="Python.1858" />
       <item itemvalue="Python.1847" />
       <item itemvalue="Python.1828" />
+      <item itemvalue="Python.2029" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2029" />
         <item itemvalue="Python.1828" />
         <item itemvalue="Python.1847" />
         <item itemvalue="Python.1858" />
         <item itemvalue="Python.1848" />
-        <item itemvalue="Python.1789" />
       </list>
     </recent_temporary>
   </component>
@@ -563,9 +569,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.48184818" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.46039605" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.4009901" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.4440242" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.46039605" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.4009901" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.45083207" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
@@ -584,24 +590,24 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="1" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19070904" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.518018" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.5608108" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,13 +642,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1156.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1157.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -960,36 +959,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1848.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="23" column="26" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="506">
+          <caret line="23" column="26" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1789.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1858.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" selection-end-line="12" selection-end-column="20" />
+          <caret selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1847.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" selection-end-line="26" />
+          <caret selection-end-line="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/1828.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+        <state>
+          <caret selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#Livro_Introd-Prog-Python/2029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
